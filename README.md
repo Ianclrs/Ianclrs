@@ -1,4 +1,4 @@
-# 🪪 Olá, me chamo Ian Carlos de Oliveira Leite (@Ianclrs) 
+# 🪪 Olá, me chamo Ian Carlos de Oliveira Leite (Ianclrs) 
 
 <div align="center">
 
