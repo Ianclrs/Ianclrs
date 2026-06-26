@@ -2,9 +2,11 @@
 
 <div align="center">
 
-**🗺️ Outros Idiomas / Other Languages:** | [🇧🇷 Português](#) | [🇺🇸 English](#-english-version) | [🇪🇸 Español](#-versión-en-español) | [🇩🇪 Deutsch](#-deutsche-version)
+**🗺️ Idiomas / Languages:** | [🇧🇷 Português](#-português) | [🇺🇸 English](#-english) | [🇪🇸 Español](#-español) | [🇩🇪 Deutsch](#-deutsch)
 
 </div>
+
+<h2 id="-português">🇧🇷 Português</h2>
 
 **Estudante de Ciência da Computação -UNIFESO- | Desenvolvedor .NET**
 
@@ -51,15 +53,13 @@ Estou sempre aberto a discutir novas ideias sobre desenvolvimento de software, a
 </div>
 
 <br>
+<hr>
+<br>
 
----
-
-## 🗺️ International Versions / Otras Versiones
-
+<h2 id="-english">🇺🇸 English</h2>
 <details>
-<summary><b>🇺🇸 English Version (Click to expand)</b></summary>
-
-## 🪪 Hello, I'm Ian Carlos de Oliveira Leite (Ianclrs) 
+<summary><b>Click to expand English Profile / Clique para expandir</b></summary>
+<br>
 
 **Computer Science Student -UNIFESO- | .NET Developer**
 
@@ -85,10 +85,12 @@ I'm always open to discussing new ideas about software development and systems a
 
 </details>
 
-<details>
-<summary><b>🇪🇸 Versión en Español (Haz clic para expandir)</b></summary>
+<br>
 
-## 🪪 Hola, me llamo Ian Carlos de Oliveira Leite (Ianclrs) 
+<h2 id="-español">🇪🇸 Español</h2>
+<details>
+<summary><b>Haz clic para expandir el perfil en Español / Clique para expandir</b></summary>
+<br>
 
 **Estudiante de Ciencia de la Computación -UNIFESO- | Desarrollador .NET**
 
@@ -104,7 +106,7 @@ Creo en la construcción de sistemas escalables e interfaces intuitivas. Mi enfo
 ### 🚀 Proyectos Destacados
 
 **[FitUP](https://github.com/Ianclrs/FitUP)**
-*Una plataforma integrada enfocada en la salud y el alto rendimiento, uniendo programas de entrenamiento y orientación nutricional estruturada. El front-end fue diseñado utilizando MudBlazor para garantizar una interfaz responsiva, dinámica y visualmente limpia.*
+*Una plataforma integrada enfocada en la salud y el alto rendimiento, uniendo programas de entrenamiento y orientación nutricional estructurada. El front-end fue diseñado utilizando MudBlazor para garantizar una interfaz responsiva, dinámica y visualmente limpia.*
 
 **[ProjetoTicket](https://github.com/zico10-arthur/ProjetoTicket)**
 *Un proyecto que surgió de la necesidad de una empresa ficticia, donde era necesario expandir y mejorar la base del proyecto. Modificamos el back-end para lograr una alta confiabilidad y rendimiento en la gestión de datos.*
@@ -114,10 +116,12 @@ Siempre estoy abierto a discutir nuevas ideas sobre desarrollo de software y arq
 
 </details>
 
-<details>
-<summary><b>🇩🇪 Deutsche Version (Klicken zum Erweitern)</b></summary>
+<br>
 
-## 🪪 Hallo, ich heiße Ian Carlos de Oliveira Leite (Ianclrs) 
+<h2 id="-deutsch">🇩🇪 Deutsch</h2>
+<details>
+<summary><b>Klicken zum Erweitern des deutschen Profils / Clique para expandir</b></summary>
+<br>
 
 **Informatikstudent -UNIFESO- | .NET-Entwickler**
 
