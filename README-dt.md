@@ -36,14 +36,6 @@ Ich glaube an die Entwicklung skalierbarer Systeme und intuitiver Benutzeroberfl
 
 ---
 
-### 📈 Übersicht 
-<div class="flex flex-col md:flex-row gap-4 items-center justify-center pt-2">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ianclrs&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=512BD4&hide_border=true" alt="GitHub Statistiken" class="w-full md:w-1/2 h-auto max-w-[400px] border border-[#30363d] rounded-lg p-2 bg-[#0d1117]">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianclrs&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&hide_border=true" alt="Meistgenutzte Sprachen" class="w-full md:w-1/2 h-auto max-w-[400px] border border-[#30363d] rounded-lg p-2 bg-[#0d1117]">
-</div>
-
-
 ### 🤝 Lass uns vernetzen!
 Ich bin jederzeit offen für den Austausch über neue Ideen im Bereich Softwareentwicklung und Systemarchitektur. 
 
