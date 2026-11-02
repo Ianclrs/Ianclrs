@@ -31,6 +31,9 @@ Ich glaube an die Entwicklung skalierbarer Systeme und intuitiver Benutzeroberfl
 **[ProjetoTicket](https://github.com/zico10-arthur/ProjetoTicket)**
 *Ein Projekt, das aus den Anforderungen eines fiktiven Unternehmens entstand, bei dem das Fundament des Projekts erweitert und verbessert werden musste. Wir haben das Backend modifiziert, um eine hohe Zuverlässigkeit und Performance im Datenmanagement zu erreichen.*
 
+**[Ciclo](https://github.com/Ianclrs/Ciclo)**
+*Ciclo ist eine Plattform, die den akademischen Lebenszyklus von Schülerinnen und Schülern zentralisiert und automatisiert: Anmeldungen, Rückmeldungen, erforderliche Dokumente, Benachrichtigungen und Leistungsverfolgung. Sie eliminiert Papierkram, reduziert Fehler und beschleunigt die Kommunikation zwischen Schule und Familie.*
+
 ---
 
 ### 📈 Übersicht 
