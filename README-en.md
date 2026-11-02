@@ -31,6 +31,9 @@ I believe in building scalable systems and intuitive interfaces. My focus is on 
 **[ProjetoTicket](https://github.com/zico10-arthur/ProjetoTicket)**
 *A project that arose from the needs of a fictional company where we needed to expand and improve the project's foundation. We modified the back-end to ensure high reliability and performance in data management.*
 
+**[Ciclo](https://github.com/Ianclrs/Ciclo)**
+*Ciclo is a platform that centralizes and automates the academic life cycle of students: enrollments, re-enrollments, mandatory documents, notifications, and performance tracking, eliminating paperwork, reducing errors, and accelerating communication between the school and families.*
+
 ---
 
 ### 📈 Overview 
