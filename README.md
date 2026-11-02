@@ -32,7 +32,7 @@ Acredito na construção de sistemas escaláveis e interfaces intuitivas. Meu fo
 *Um projeto que surgiu de uma necessidade de uma empresa fictícia, onde era preciso adicionar e melhorar a base do projeto, modificamos o back-end para alta confiabilidade e performance na gestão de dados.*
 
 **[Ciclo](https://github.com/Ianclrs/Ciclo)**
-*O Ciclo é uma plataforma que centraliza e automatiza o ciclo de vida acadêmico dos alunos: matrículas, rematrículas, documentos obrigatórios, notificações e acompanhamento de desempenho — eliminando papelada, reduzindo erros e acelerando a comunicação entre escola e família.*
+*O Ciclo é uma plataforma que centraliza e automatiza o ciclo de vida acadêmico dos alunos: matrículas, rematrículas, documentos obrigatórios, notificações e acompanhamento de desempenho, eliminando papelada, reduzindo erros e acelerando a comunicação entre escola e família.*
 
 ---
 
