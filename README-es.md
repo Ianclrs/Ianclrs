@@ -36,14 +36,6 @@ Creo en la construcción de sistemas escalables e interfaces intuitivas. Mi enfo
 
 ---
 
-### 📈 Vista General 
-<div class="flex flex-col md:flex-row gap-4 items-center justify-center pt-2">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ianclrs&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=512BD4&hide_border=true" alt="Estadísticas de GitHub" class="w-full md:w-1/2 h-auto max-w-[400px] border border-[#30363d] rounded-lg p-2 bg-[#0d1117]">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianclrs&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&hide_border=true" alt="Lenguajes más usados" class="w-full md:w-1/2 h-auto max-w-[400px] border border-[#30363d] rounded-lg p-2 bg-[#0d1117]">
-</div>
-
-
 ### 🤝 ¡Conectemos!
 Siempre estoy abierto a discutir nuevas ideas sobre desarrollo de software y arquitectura de sistemas. 
 
