@@ -31,6 +31,9 @@ Creo en la construcción de sistemas escalables e interfaces intuitivas. Mi enfo
 **[ProjetoTicket](https://github.com/zico10-arthur/ProjetoTicket)**
 *Un proyecto que surgió de la necesidad de una empresa ficticia, donde era necesario expandir y mejorar la base del proyecto. Modificamos el back-end para lograr una alta confiabilidad y rendimiento en la gestión de datos.*
 
+**[Ciclo](https://github.com/Ianclrs/Ciclo)**
+*Ciclo es una plataforma que centraliza y automatiza el ciclo de vida académico de los alumnos: matriculaciones, rematriculaciones, documentos obligatorios, notificaciones y seguimiento del rendimiento, eliminando el papeleo, reduciendo errores y acelerando la comunicación entre la escuela y la familia.*
+
 ---
 
 ### 📈 Vista General 
