@@ -7,7 +7,7 @@
 
 **Estudante de Ciência da Computação -UNIFESO- | Desenvolvedor .NET | ![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Ianclrs/badge.svg)** 
 
-Acredito na construção de sistemas escaláveis e interfaces intuitivas. Meu foco é projetar soluções onde a solidez da arquitetura de dados onde o usuário possa encontrar com uma experiência excepcional e objetiva. Hoje em dia focado cada vez mais em trabalhos com a IA na arquitetura SDD e estudando cada vez mais para ser um desenvolvedor!
+Acredito na construção de sistemas escaláveis e interfaces intuitivas. Meu foco é projetar soluções onde a solidez da arquitetura de dados onde o usuário possa encontrar com uma experiência excepcional e objetiva. Hoje em dia focado cada vez mais em trabalhos com a IA na arquitetura SDD e estou tendo a oportunidade de ser contribuidor no XERJ com a Ciclo!
 
 ---
 
