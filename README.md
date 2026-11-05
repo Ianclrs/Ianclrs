@@ -1,9 +1,8 @@
-# 🪪 Olá, me chamo Ian Carlos de Oliveira Leite (Ianclrs) 
+# 🪪 Olá, me chamo Ian Carlos de Oliveira Leite (Ianclrs) ![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Ianclrs/badge.svg)
 
 <div align="center">
 
 **🗺️ Idiomas:** | [English](README-en.md) | [Español](README-es.md) | [Deutsch](README-dt.md)
-
 </div>
 
 **Estudante de Ciência da Computação -UNIFESO- | Desenvolvedor .NET**
